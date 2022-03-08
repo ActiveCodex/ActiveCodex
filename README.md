@@ -6,7 +6,10 @@ LinkedIn - https://www.linkedin.com/in/activecodex/
 <br/>
 Portfolio - https://www.activecodex.com/
 
+---
+
 ## 📊 Weekly development breakdown
+###### Data from WakaTime
 
 <!--START_SECTION:waka-->
 
