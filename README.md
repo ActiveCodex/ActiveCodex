@@ -6,7 +6,7 @@ LinkedIn - https://www.linkedin.com/in/activecodex/
 <br/>
 Portfolio - https://www.activecodex.com/
 
-## Code
+## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
 
