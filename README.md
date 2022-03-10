@@ -14,12 +14,12 @@ Portfolio - https://www.activecodex.com/
 <!--START_SECTION:waka-->
 
 ```text
-Liquid       15 hrs 25 mins  ██████████████▓░░░░░░░░░░   58.47 %
-CSS          4 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-JavaScript   3 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-JSON         1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-Markdown     1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Liquid       18 hrs 1 min    ███████████████░░░░░░░░░░   59.95 %
+CSS          5 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
+JavaScript   3 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+JSON         1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+Markdown     1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
