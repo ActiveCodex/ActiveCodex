@@ -41,7 +41,7 @@ A Front-End Web Developer specialising in Shopify / Web / Mobile responsive deve
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Liquid   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
