@@ -41,11 +41,11 @@ A Front-End Web Developer specialising in Shopify / Web / Mobile responsive deve
 <!--START_SECTION:waka-->
 
 ```txt
-Liquid       8 hrs 12 mins   ██████████████░░░░░░░░░░░   55.84 %
-JavaScript   3 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
-JSON         2 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-CSS          49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-TypeScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Liquid       6 hrs 8 mins    ████████████░░░░░░░░░░░░░   48.66 %
+JavaScript   3 hrs 37 mins   ███████▒░░░░░░░░░░░░░░░░░   28.72 %
+JSON         1 hr 50 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
+CSS          48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+TypeScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
